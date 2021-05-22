@@ -1,0 +1,30 @@
+img{
+    
+  margin-left: 500px;
+  margin-top: 150px;
+  height: 250px;
+}
+
+.control-slider{
+    margin-top: 20px;
+    margin-left: 625px;
+}
+
+#btn-back{
+   
+    width: 75px;
+    border: none;
+    background: none;
+    outline: none;
+   cursor: pointer;
+   background-color: #fff;
+}
+
+#btn-go{
+    width: 75px;
+    border: none;
+    background: none;
+    outline: none;
+   cursor: pointer;
+   background-color: #fff;
+}
